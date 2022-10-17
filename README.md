@@ -18,6 +18,6 @@ When I am not glued to the monitor I love producing electronic music, tinkering 
 ***
 And now let's have some fun random jokes. Always a good idea... 😬😬😬
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 </samp>
