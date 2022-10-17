@@ -1,6 +1,7 @@
 <samp>
 
- ## <p align="center">You found me on GitHub - awesome!</p>
+<h1 align="center">You found me on GitHub - awesome!</h1>
+<br>
 
 ### My name is Alex and right now I am learning to code in a three months bootcamp [@neue fische](https://www.neuefische.de/)
 <br>
