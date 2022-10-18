@@ -7,12 +7,12 @@
 <br>
  
 **So far I have gotten into:**
-
+```python
 - Python
 - HTML/CSS
 - JavaScript/TypeScript
 - React
-
+ ```
 
 When I am not glued to the monitor I love producing electronic music, tinkering with arduino and raspberry, mentoring young kids [@jugend hackt](https://www.jugendhackt.org) and meet up with friends for a hike or a drink. I don't like Harry Potter.
 
