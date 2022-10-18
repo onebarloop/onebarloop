@@ -17,7 +17,7 @@
 When I am not glued to the monitor I love producing electronic music, tinkering with arduino and raspberry, mentoring young kids [@jugend hackt](https://www.jugendhackt.org) and meet up with friends for a hike or a drink. I don't like Harry Potter.
 
 ***
-And now let's have some fun random jokes. Always a good idea... 😬😬😬
+And now for something completely different:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
