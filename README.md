@@ -14,8 +14,11 @@
 - Next.js
 - Python
  ```
+ 
+You are welcome to check my public repos. Please keep in mind, that most of them are practice-projects. Therefore they are often not finished. You can find my **capstone-project** [here](https://github.com/onebarloop/capstone-project)
 
 When I am not glued to the monitor I love producing electronic music, tinkering with arduino and raspberry, mentoring young kids [@jugend hackt](https://www.jugendhackt.org) and meet up with friends for a hike or a drink. I don't like Harry Potter.
+ 
 
 ***
 And now for something completely different:
