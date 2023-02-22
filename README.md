@@ -3,16 +3,17 @@
 <h1 align="center">You found me on GitHub - awesome!</h1>
 <br>
 
-### My name is Alex and right now I am learning to code in a three months bootcamp [@neue fische](https://www.neuefische.de/)
+### My name is Alex and I just finished a three months WebDev-bootcamp [@neue fische](https://www.neuefische.de/)
 <br>
  
 **So far I have gotten into:**
 ```python
 - HTML/CSS
-- JavaScript/TypeScript
+- JavaScript
+ -TypeScript
 - React
 - Next.js
-- Python
+- Node.js
  ```
  
 You are welcome to check my public repos. Please keep in mind, that most of them are practice-projects. Therefore they are often not finished. You can find my **capstone-project** [here](https://github.com/onebarloop/capstone-project)
