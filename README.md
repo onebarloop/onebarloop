@@ -14,6 +14,7 @@
 - React
 - Next.js
 - Node.js
+- Astro 🚀🧑‍🚀
  ```
  
 You are welcome to check my public repos. Please keep in mind, that most of them are practice-projects. Therefore they are often not finished. You can find my **capstone-project** [here](https://github.com/onebarloop/capstone-project)
