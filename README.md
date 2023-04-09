@@ -24,7 +24,6 @@ When I am not glued to the monitor I love producing electronic music, tinkering 
 
 ***
 And now for something completely different:
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
 </samp>
+>![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
