@@ -13,7 +13,7 @@
 - HTML/CSS     |  - React         | - Docker
 - JavaScript   |  - Next.js       | - ddev
 - TypeScript   |  - Angular       | - tailwind
-- PHP 8        |  - Symfony       | - webpack / webpack encore
+- PHP 8        |  - symfony       | - webpack / webpack encore
 - Node.js      |  - Astro 🚀🧑‍🚀   | - vite
 - Vue                             | - Bun
  ```
