@@ -11,10 +11,10 @@
  >>BASICS<<       >>FRAMEWORKS<<     >>TOOLS & LIBRARYS<<
 
 - HTML/CSS     |  - React         | - Docker
-- JavaScript   |  - Next.js       | - ddev
-- TypeScript   |  - Angular       | - tailwind
-- PHP 8        |  - symfony       | - webpack / webpack encore
-- Node.js      |  - Astro 🚀🧑‍🚀   | - vite
+- JavaScript   |  - Next.js       | - Ddev
+- TypeScript   |  - Angular       | - Tailwind
+- PHP 8        |  - Symfony       | - Webpack / Webpack Encore
+- Node.js      |  - Astro 🚀🧑‍🚀   | - Vite
 - Vue                             | - Bun
  ```
  
