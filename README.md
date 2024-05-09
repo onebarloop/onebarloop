@@ -3,7 +3,7 @@
 <h1 align="center">You found me on GitHub - awesome!</h1>
 <br>
 
-### My name is Alex and I'm a frontend dev. Still junior level, but eager to learn and grow!
+### My name is Alex and I'm a frontend dev with fullstack ambitions.
 <br>
  
 **So far I have gotten into:**
